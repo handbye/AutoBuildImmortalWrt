@@ -52,7 +52,7 @@ PACKAGES="$PACKAGES luci-app-socat"
 PACKAGES="$PACKAGES luci-app-timewol"
 PACKAGES="$PACKAGES luci-app-zerotier"
 PACKAGES="$PACKAGES luci-app-timedreboot"
-PACKAGES="$PACKAGES uci-app-watchcat"
+PACKAGES="$PACKAGES luci-app-watchcat"
 
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
